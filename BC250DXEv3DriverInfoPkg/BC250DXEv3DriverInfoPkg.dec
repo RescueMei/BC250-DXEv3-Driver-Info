@@ -1,0 +1,5 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x0001001A
+  PACKAGE_NAME                   = MeiMeiDXEv3_DriverInfo
+  PACKAGE_GUID                   = 8f3b2d41-6c7e-4a59-9b0d-2e7f5c1a8d34
+  PACKAGE_VERSION                = 0.1
