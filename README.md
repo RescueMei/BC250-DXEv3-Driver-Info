@@ -118,4 +118,8 @@ Output:
 
 ## Validation
 
-Pending the first nine-driver run. `COMPLIANCE.md` records the checklist.
+2026-11-25, nine-driver stack: `DEPLOY_OK` at a 2100 MHz ceiling, actual clock
+2100 MHz sustained, <= 1006 mV, 202 W peak, 82 C peak, 0 ring/C2P timeouts. The
+variable was present with attributes `0x6` (BS+RT), schema 1, and 9 entries. A
+negative run without CU Unlock produced 8 entries with no `CU-Unlock` entry.
+See [COMPLIANCE.md](COMPLIANCE.md).
